@@ -26,3 +26,13 @@
 # IDENTITY Columns
 <img width="605" height="267" alt="image" src="https://github.com/user-attachments/assets/a9ad665a-59ff-4c51-a349-9e2d28127e25" />
 
+# Primary key constraints - unique
+<img width="583" height="158" alt="image" src="https://github.com/user-attachments/assets/d2a9b85d-04c0-4b9f-b6bc-f58325ad4e43" />
+
+# Primary key constraints - not null
+<img width="692" height="70" alt="image" src="https://github.com/user-attachments/assets/27ccc7b7-66d2-472f-a453-359693632a30" />
+
+# Automatic index creation
+<img width="769" height="287" alt="image" src="https://github.com/user-attachments/assets/ea8f83f7-ef9b-4341-b3a4-008cfd87f1d2" />
+
+
