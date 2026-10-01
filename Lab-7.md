@@ -33,6 +33,7 @@
 <img width="692" height="70" alt="image" src="https://github.com/user-attachments/assets/27ccc7b7-66d2-472f-a453-359693632a30" />
 
 # Automatic index creation
-<img width="769" height="287" alt="image" src="https://github.com/user-attachments/assets/ea8f83f7-ef9b-4341-b3a4-008cfd87f1d2" />
+<img width="768" height="154" alt="image" src="https://github.com/user-attachments/assets/c737570d-a6cf-4685-a998-da7a41336aad" />
+
 
 
