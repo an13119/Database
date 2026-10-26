@@ -24,6 +24,12 @@
 # GROUP BY clause (basic, multiple column grouping, with expressions)
 <img width="452" height="527" alt="image" src="https://github.com/user-attachments/assets/04d9073b-6351-4de6-9ab9-33a71bd5163e" />
 
+# HAVING Clause to filter groups created by GROUP BY after grouping.
+<img width="302" height="289" alt="image" src="https://github.com/user-attachments/assets/82d33d3c-8131-4757-a86f-50a5210ff546" />
+
+# Aggregate function and window function with null values
+<img width="436" height="539" alt="image" src="https://github.com/user-attachments/assets/1066f28a-27dd-4573-92a9-0e36ef33e6a4" />
+
 # Combining multiple aggregations, conditional aggregation, percentage calculations
 <img width="564" height="476" alt="image" src="https://github.com/user-attachments/assets/9078676e-2281-4994-8c2b-bcc68581fa08" />
 
