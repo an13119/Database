@@ -1,3 +1,5 @@
+# Foreign Keys and Relationships
+
 # One-to-many realtionship (one department to many employees)
 Create parent (departments) and child (employees) tables with foreign keys, insert data into parent (departments) and child (employees) tables, view the relationship with a JOIN query  
 
