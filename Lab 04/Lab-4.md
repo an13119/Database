@@ -1,4 +1,4 @@
-# Lab 4 - Practicing SQL Query
+# First SQL Query
 
 ## 1. Connect to PostgreSQL table and insert 3 student records to the students table
 <img width="466" height="163" alt="image" src="https://github.com/user-attachments/assets/b285aa1d-bdb7-4ec9-a989-a9c83bfa856b" />
