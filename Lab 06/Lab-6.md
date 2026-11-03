@@ -1,3 +1,5 @@
+# Tables, Data Types and Constraints
+
 # Table Creation
 
 <img width="1133" height="512" alt="image" src="https://github.com/user-attachments/assets/abf14022-ef4b-433d-89c5-925d41abc168" />
