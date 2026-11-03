@@ -1,3 +1,5 @@
+# Primary Keys
+
 # Create table "students" and define its primary key at column level 
 
 <img width="616" height="468" alt="image" src="https://github.com/user-attachments/assets/a769f3e1-e6c0-4695-ab48-f21df1f076e6" />
